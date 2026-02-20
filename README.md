@@ -1,1 +1,1 @@
-# Fake-new-ditector
+# Fake-news-ditector
